@@ -1,1 +1,1 @@
-# -hello-project-note
+# hello-project-note
